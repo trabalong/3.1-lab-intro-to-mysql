@@ -16,7 +16,7 @@ Using pen and paper (or computer software if you are skillful at creating digita
 
 1. **Salespersons** - e.g. staff ID, name, and the store at your company.
 
-1. **Invoices** - e.g. the invoice number, date, car, customer, and salesperson related to each car sale.
+1. **Invoices** - e.g. invoice ID,the invoice number, date, car, customer, and salesperson related to each car sale.
 
 Before solving this challenge, review your lesson about database structure and design then ask yourself:
 
